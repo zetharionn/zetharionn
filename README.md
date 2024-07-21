@@ -1,7 +1,7 @@
 ### 🔥 About Me   
 🌌 Front-end Developer   
 🎓 Langs: Russian (Native), English (A2)   
-📣 Links: [Telegram](https://t.me/Zetharion)   
+📣 Links: [Telegram](https://t.me/Zetharion), [Discord](https://discord.com/users/599225121877524500)
 ### 🔨 Tech Stack   
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=catppuccin_mocha&width=600&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=react%2Creact%2C5ed3f3%3Btypescript%2Ctypescript%2C2f74c0%3Bredux%2Credux%2C7248b6%3Bvite%2Cvite%2Cb143fe%3Bwebpack%2Cwebpack%2C5299c8%3B)
 ### 💻 Tools   
