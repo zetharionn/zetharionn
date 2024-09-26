@@ -5,22 +5,25 @@
 	"description": "Zetharion README",
 	"author": "zetharionn",
 	"license": "MIT",
-	"homepage": "https://github.com/zetharionn/zetharionn",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/zetharionn/zetharionn"
-	},
-	"keywords": ["zetharionn", "readme"],
-	"devDependencies": {
-		"@biomejs/biome": "^1.9.2",
-		"@commitlint/cli": "^19.5.0",
-		"@commitlint/config-conventional": "^19.5.0",
-		"husky": "^9.1.6"
-	},
 	"scripts": {
 		"lint": "biome check --write .",
 		"lint:formatter": "biome format --write .",
 		"lint:linter": "biome lint --write .",
 		"prepare": "husky"
+	},
+	"homepage": "https://github.com/zetharionn/zetharionn",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zetharionn/zetharionn"
+	},
+	"keywords": [
+		"zetharionn",
+		"readme"
+	],
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.2",
+		"@commitlint/cli": "^19.5.0",
+		"@commitlint/config-conventional": "^19.5.0",
+		"husky": "^9.1.6"
 	}
 }
