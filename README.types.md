@@ -11,7 +11,7 @@ yo,
 ```typescript
 export interface Zetharion {
 	os: Linux // windows previously
-	shell: Shell // i'm too lazy to switch to zsh
+	shell: Shell // oh my zsh...
 	editors: Editors[]
 	code: Code[] // react enjoyer
 	tools: Tools[]
