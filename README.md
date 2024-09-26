@@ -15,7 +15,7 @@ import type { Zetharion } from './README.types.md'
 
 let zetharionn: Zetharion = {
 	os: 'Arch Linux',
-	shell: 'bash',
+	shell: 'zsh',
 	editors: ['Visual Studio Code', 'Zed'],
 	code: ['Typescript', 'React', 'Vite', 'Zustand', 'SCSS', 'Vitest'],
 	tools: ['git', 'GitHub', 'biome', 'Vercel', 'turbo', 'Docker', 'Obsidian'],
