@@ -5,6 +5,7 @@
 	"description": "Zetharion README",
 	"author": "zetharionn",
 	"license": "MIT",
+	"type": "module",
 	"scripts": {
 		"lint": "biome check --write .",
 		"lint:formatter": "biome format --write .",
