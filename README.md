@@ -14,8 +14,8 @@ Front-end Developer
 import type { Zetharion } from './README.types.md'
 
 let zetharionn: Zetharion = {
-	os: 'Arch Linux',
-	shell: 'zsh',
+	os: 'Windows 10',
+	shell: 'Powershell',
 	editors: ['Visual Studio Code', 'Zed'],
 	code: ['Typescript', 'React', 'Vite', 'Zustand', 'SCSS', 'Vitest'],
 	tools: ['git', 'GitHub', 'biome', 'Vercel', 'turbo', 'Docker', 'Obsidian'],
