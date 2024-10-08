@@ -10,8 +10,8 @@ yo,
 
 ```typescript
 export interface Zetharion {
-	os: Linux // windows previously
-	shell: Shell // oh my zsh...
+	os: Windows // arch linux previously
+	shell: Shell // pwsh
 	editors: Editors[]
 	code: Code[] // react enjoyer
 	tools: Tools[]
