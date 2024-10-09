@@ -3,8 +3,8 @@
 <img src="./assets/wallpaper.png" alt="it's anime wallpaper if u don't see it" />
 
 <pre>
-Front-end Developer
-<a href="https://t.me/zetharionn">Telegram</a> • <==zetharionn==> • <a href="https://discord.com/users/599225121877524500">Discord</a>
+  Front-end Developer
+<a href="https://t.me/zetharionn">Telegram</a> • <==zetharionn==> • <a href="mailto:zetharionn.work@gmail.com">Email</a>
 </pre>
 
 </div>
