@@ -4,7 +4,7 @@
 
 <pre>
 Front-end Developer
-<a href="https://t.me/zetharionn">Telegram</a> • <--zetharion--> • <a href="https://discord.com/users/599225121877524500">Discord</a>
+<a href="https://t.me/zetharionn">Telegram</a> • <==zetharionn==> • <a href="https://discord.com/users/599225121877524500">Discord</a>
 </pre>
 
 </div>
