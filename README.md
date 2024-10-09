@@ -4,7 +4,6 @@
 
 <pre>
 Front-end Developer
-<a href="https://github.com/zetharionn/anitrack">AniTrack</a> • <--Projects--> • <a href="https://github.com/zetharionn/aniapi">AniAPI</a>
 <a href="https://t.me/zetharionn">Telegram</a> • <--zetharion--> • <a href="https://discord.com/users/599225121877524500">Discord</a>
 </pre>
 
