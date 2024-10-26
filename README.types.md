@@ -15,7 +15,6 @@ export interface Zetharion {
 	editors: Editors[]
 	code: Code[] // react enjoyer
 	tools: Tools[]
-	runtimes: Runtimes[]
 	package_managers: Package_Managers[] // pnpm favorite forever
 }
 ```
