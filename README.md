@@ -18,6 +18,6 @@ let zetharionn: Zetharion = {
 	editors: ['Visual Studio Code', 'JetBrains WebStorm'],
 	code: ['Typescript', 'React', 'Vite', 'Zustand', 'SCSS', 'Vitest'],
 	tools: ['git', 'GitHub', 'biome', 'Vercel', 'turbo', 'Docker', 'Obsidian'],
-	package_managers: ['pnpm', 'yarn', 'bun'],
+	package_managers: ['pnpm', 'bun'],
 }
 ```
