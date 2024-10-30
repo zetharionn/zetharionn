@@ -17,7 +17,7 @@ let zetharionn: Zetharion = {
 	shell: 'Powershell',
 	editors: ['Visual Studio Code', 'JetBrains WebStorm'],
 	code: ['Typescript', 'React', 'Vite', 'Zustand', 'SCSS', 'Vitest'],
-	tools: ['git', 'GitHub', 'biome', 'Vercel', 'turbo', 'Docker', 'Obsidian'],
-	package_managers: ['pnpm', 'bun'],
+	tools: ['Git', 'GitHub', 'Biome', 'Vercel', 'Turborepo', 'Docker', 'Obsidian'],
+	package_managers: ['PNPM', 'Bun'],
 }
 ```
