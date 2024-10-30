@@ -7,10 +7,7 @@
 	"license": "MIT",
 	"type": "module",
 	"scripts": {
-		"lint": "biome check --write .",
-		"lint:formatter": "biome format --write .",
-		"lint:linter": "biome lint --write .",
-		"prepare": "husky"
+		"lint": "biome check --write ."
 	},
 	"homepage": "https://github.com/zetharionn/zetharionn",
 	"repository": {
