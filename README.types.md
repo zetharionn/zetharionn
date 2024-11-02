@@ -11,10 +11,10 @@ yo,
 ```typescript
 export interface Zetharion {
 	os: Windows // arch linux previously
-	shell: Shell // pwsh
+	shell: Shell
 	editors: Editors[]
 	code: Code[] // react enjoyer
 	tools: Tools[]
-	package_managers: Package_Managers[] // pnpm favorite forever
+	package_managers: Package_Managers[] // pnpm favorite
 }
 ```
