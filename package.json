@@ -3,7 +3,7 @@
 	"private": true,
 	"description": "Zetharion README",
 	"author": "zetharionn",
-	"license": "MIT",
+	"license": "UNLICENSED",
 	"type": "module",
 	"scripts": {
 		"lint": "biome check --write ."
@@ -13,10 +13,7 @@
 		"type": "git",
 		"url": "git+https://github.com/zetharionn/zetharionn"
 	},
-	"keywords": [
-		"zetharionn",
-		"readme"
-	],
+	"keywords": ["zetharionn", "readme"],
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.2"
 	},
