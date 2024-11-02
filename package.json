@@ -6,17 +6,14 @@
 	"license": "UNLICENSED",
 	"type": "module",
 	"scripts": {
-		"lint": "biome check --write ."
+		"lint": "biome check --write ./"
 	},
 	"homepage": "https://github.com/zetharionn/zetharionn",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/zetharionn/zetharionn"
 	},
-	"keywords": [
-		"zetharionn",
-		"readme"
-	],
+	"keywords": ["zetharionn", "readme"],
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4"
 	},
