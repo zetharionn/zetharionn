@@ -15,8 +15,8 @@ import type { Zetharion } from './README.types.md'
 let zetharionn: Zetharion = {
 	os: 'Windows 10',
 	shell: 'PowerShell',
+	editor: 'Visual Studio Code',
 	package_manager: 'pnpm',
-	editors: ['Visual Studio Code', 'JetBrains WebStorm'],
 	code: ['Typescript', 'React', 'Vite', 'Zustand', 'SCSS', 'Vitest'],
 	tools: ['Git', 'GitHub', 'Biome', 'Vercel', 'Turborepo', 'Docker']
 }
