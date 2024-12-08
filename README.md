@@ -1,8 +1,10 @@
 <div align="center">
 
 <pre>
-  Front-end Developer
+
+Front-end Developer
 <a href="https://t.me/zetharionn">Telegram</a> • <==zetharionn==> • <a href="mailto:zetharionn.work@gmail.com">Email</a>
+
 </pre>
 
 </div>
