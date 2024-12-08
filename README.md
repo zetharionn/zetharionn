@@ -8,14 +8,14 @@
 </div>
 
 ```typescript
-import type { Zetharion } from './README.types.md'
+import type { Zetharion } from './README.types'
 
-let zetharionn: Zetharion = {
+const zetharionn: Zetharion = {
 	os: 'Windows 10',
 	shell: 'PowerShell',
 	editor: 'Visual Studio Code',
 	package_manager: 'pnpm',
-	code: ['Typescript', 'React', 'Vite', 'Zustand', 'SCSS', 'Vitest'],
-	tools: ['Git', 'GitHub', 'Biome', 'Vercel', 'Turborepo', 'Docker']
+	code: ['Typescript', 'React', 'Vite', 'TanStack', 'Zustand', 'SCSS', 'Vitest'],
+	tools: ['Git', 'Biome', 'Turborepo', 'Docker']
 }
 ```
