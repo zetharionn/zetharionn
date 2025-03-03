@@ -13,7 +13,7 @@
 		"type": "git",
 		"url": "git+https://github.com/zetharionn/zetharionn"
 	},
-	"keywords": ["zetharionn", "readme"],
+	"keywords": ["readme", "zetharionn"],
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4"
 	},
