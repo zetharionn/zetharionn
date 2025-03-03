@@ -13,7 +13,7 @@ Front-end Developer
 import type { Zetharion } from './README.types'
 
 const zetharionn: Zetharion = {
-	os: 'Windows 10',
+	os: 'Windows 11',
 	shell: 'PowerShell',
 	editor: 'Visual Studio Code',
 	package_manager: 'pnpm',
