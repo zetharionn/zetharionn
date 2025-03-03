@@ -10,11 +10,11 @@ yo,
 
 ```typescript
 export interface Zetharion {
-	os: Windows
+	os: OS
 	shell: Shell
 	editor: Editor
 	package_manager: Package_Manager
 	code: Code[]
-	tools: Tools[]
+	tools: Tool[]
 }
 ```
