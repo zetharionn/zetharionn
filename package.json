@@ -13,12 +13,20 @@
 		"type": "git",
 		"url": "git+https://github.com/zetharionn/zetharionn"
 	},
-	"keywords": ["zetharionn", "readme"],
+	"keywords": [
+		"zetharionn",
+		"readme"
+	],
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4"
 	},
 	"packageManager": "pnpm@10.1.0",
 	"engines": {
 		"node": "22.x"
+	},
+	"pnpm": {
+		"onlyBuiltDependencies": [
+			"@biomejs/biome"
+		]
 	}
 }
