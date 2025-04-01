@@ -20,8 +20,5 @@
 	"packageManager": "pnpm@10.5.2",
 	"engines": {
 		"node": "22.x"
-	},
-	"pnpm": {
-		"onlyBuiltDependencies": ["@biomejs/biome"]
 	}
 }
