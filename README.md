@@ -18,6 +18,6 @@ const zetharionn: Zetharion = {
 	editor: 'Visual Studio Code',
 	package_manager: 'pnpm',
 	code: ['TypeScript', 'React', 'Vite', 'TanStack', 'Zustand', 'Vitest'],
-	tools: ['Git', 'Biome', 'Docker']
+	tools: ['Git', 'Biome', 'Docker', 'Hoppscotch']
 }
 ```
