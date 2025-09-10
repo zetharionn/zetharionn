@@ -13,7 +13,7 @@ export interface Zetharion {
 	os: OS
 	shell: Shell
 	editors: Editor[]
-	package_manager: Package_Manager
+	package_managers: Package_Manager[]
 	code: Code[]
 	tools: Tool[]
 }
