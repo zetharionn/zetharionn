@@ -20,12 +20,36 @@
 	},
 	"formatter": {
 		"enabled": true,
+		"formatWithErrors": false,
 		"indentStyle": "tab",
 		"indentWidth": 2,
 		"lineEnding": "lf",
 		"lineWidth": 80,
 		"attributePosition": "auto",
 		"bracketSpacing": true,
-		"expand": "auto"
+		"expand": "auto",
+		"useEditorconfig": true
+	},
+	"json": {
+		"parser": {
+			"allowComments": true,
+			"allowTrailingCommas": false
+		},
+		"formatter": {
+			"enabled": true,
+			"indentStyle": "tab",
+			"indentWidth": 2,
+			"lineEnding": "lf",
+			"lineWidth": 80,
+			"trailingCommas": "none",
+			"bracketSpacing": true,
+			"expand": "auto"
+		},
+		"linter": {
+			"enabled": true
+		},
+		"assist": {
+			"enabled": true
+		}
 	}
 }
