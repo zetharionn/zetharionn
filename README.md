@@ -17,6 +17,7 @@ const zetharionn: Zetharion = {
 	shell: 'PowerShell',
 	editors: ['JetBrains WebStorm', 'Visual Studio Code'],
 	package_managers: ['Bun', 'pnpm'],
+	languages: ['JavaScript', 'Rust'],
 	code: ['TypeScript', 'React', 'Next.js', 'TanStack', 'Zustand', 'Rstack'],
 	tools: ['Git', 'Biome', 'Vite', 'Docker', 'Hoppscotch', 'Vitest']
 }

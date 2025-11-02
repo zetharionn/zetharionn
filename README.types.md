@@ -14,6 +14,7 @@ export interface Zetharion {
 	shell: Shell
 	editors: Editor[]
 	package_managers: Package_Manager[]
+	languages: Language[]
 	code: Code[]
 	tools: Tool[]
 }
