@@ -18,7 +18,7 @@ const zetharionn: Zetharion = {
 	editors: ['Zed', 'JetBrains WebStorm', 'JetBrains RustRover', 'JetBrains CLion'],
 	package_managers: ['Bun', 'pnpm', 'Cargo'],
 	languages: ['JavaScript', 'Rust', 'C++'],
-	code: ['TypeScript', 'React', 'Next.js', 'TanStack', 'Rstack'],
+	code: ['TypeScript', 'React', 'Next.js', 'TanStack', 'Rstack', 'Deno'],
 	tools: ['Git', 'Biome', 'Vite', 'Docker', 'Hoppscotch', 'Vitest', 'Cargo']
 }
 ```
