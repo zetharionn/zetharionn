@@ -15,10 +15,10 @@ import type { Zetharion } from './README.types'
 const zetharionn: Zetharion = {
 	os: 'Windows 11',
 	shell: 'PowerShell',
-	editors: ['Zed', 'JetBrains WebStorm', 'JetBrains RustRover', 'Visual Studio Code'],
+	editors: ['Zed', 'JetBrains WebStorm', 'JetBrains RustRover'],
 	package_managers: ['Bun', 'pnpm', 'Cargo'],
 	languages: ['JavaScript', 'Rust'],
-	code: ['TypeScript', 'React', 'Next.js', 'TanStack', 'Zustand', 'Rstack'],
+	code: ['TypeScript', 'React', 'Next.js', 'TanStack', 'Rstack'],
 	tools: ['Git', 'Biome', 'Vite', 'Docker', 'Hoppscotch', 'Vitest', 'Cargo']
 }
 ```
