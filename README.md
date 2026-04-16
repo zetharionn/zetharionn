@@ -14,6 +14,7 @@ import type { Zetharion } from './README.types'
 const zetharionn: Zetharion = {
 	os: 'Windows 11',
 	shell: 'Nushell',
+	coding_agent: 'OpenCode',
 	editors: ['Zed', 'JetBrains WebStorm', 'JetBrains CLion', 'JetBrains RustRover'],
 	package_managers: ['Bun', 'pnpm', 'Cargo'],
 	languages: ['JavaScript', 'C++', 'Rust'],

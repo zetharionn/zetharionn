@@ -12,6 +12,7 @@ heyo,
 export interface Zetharion {
 	os: OS
 	shell: Shell
+	coding_agent: Coding_Agent
 	editors: Editor[]
 	package_managers: Package_Manager[]
 	languages: Language[]
