@@ -11,7 +11,7 @@ heyo,
 ```typescript
 export interface Zetharion {
 	os: OS
-	browser: Browser
+	browsers: Browser[]
 	shell: Shell
 	coding_agent: Coding_Agent
 	editors: Editor[]

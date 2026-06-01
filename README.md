@@ -13,7 +13,7 @@ import type { Zetharion } from './README.types'
 
 const zetharionn: Zetharion = {
 	os: 'Windows 11',
-	browser: 'Zen Browser',
+	browsers: ['Zen Browser', 'Helium'],
 	shell: 'Nushell',
 	coding_agent: 'OpenCode',
 	editors: ['Zed', 'JetBrains WebStorm', 'JetBrains RustRover', 'JetBrains CLion'],
