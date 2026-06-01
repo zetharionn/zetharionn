@@ -18,7 +18,7 @@
 		"@biomejs/biome": "^2.4.14"
 	},
 	"engines": {
-		"node": "22.x",
+		"node": "24.x",
 		"bun": "1.x"
 	}
 }
