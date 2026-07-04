@@ -21,6 +21,6 @@ const zetharionn: Zetharion = {
 	package_managers: ['PNPM', 'Bun', 'Cargo'],
 	languages: ['JavaScript', 'Rust', 'C++'],
 	code: ['TypeScript', 'React', 'Next.js', 'TanStack', 'Rstack'],
-	tools: ['NVM', 'Git', 'Biome', 'Vite', 'Docker', 'Yaak', 'Vitest', 'Cargo', 'Zoxide', 'Yazi']
+	tools: ['Git', 'NVM', 'Yazi', 'Zoxide', 'Biome', 'Vite', 'Docker', 'Yaak', 'Vitest', 'Cargo']
 }
 ```
