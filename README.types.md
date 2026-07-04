@@ -12,6 +12,7 @@ ayo,
 export interface Zetharion {
 	os: OS
 	browsers: Browser[]
+	terminal: Terminal
 	shell: Shell
 	coding_agent: Coding_Agent
 	editors: Editor[]
